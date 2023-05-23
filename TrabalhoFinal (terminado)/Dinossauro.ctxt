@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Dinossauro
+comment0.text=\r\n\ O\ aluno\ Vitor\ Rafael\ mal\ chegou\ a\r\n\ tocar\ nesta\ classe,\ salvo\ por\r\n\ este\ coment\u00E1rio\r\n\ \r\n\ @author\ (Professora)\ \r\n\ @version\ (11/2022)\r\n
+comment1.params=idDinossauro\ nomeRaca\ tipo\ categoria\ peso
+comment1.target=Dinossauro(int,\ java.lang.String,\ int,\ int,\ double)
+comment10.params=tipo
+comment10.target=void\ setTipo(int)
+comment11.params=peso
+comment11.target=void\ setPeso(double)
+comment2.params=
+comment2.target=int\ getIdDinossauro()
+comment3.params=idDinossauro
+comment3.target=void\ setIdDinossauro(int)
+comment4.params=
+comment4.target=java.lang.String\ getNomeRaca()
+comment5.params=nomeRaca
+comment5.target=void\ setNomeRaca(java.lang.String)
+comment6.params=
+comment6.target=int\ getCategoria()
+comment7.params=categoria
+comment7.target=void\ setCategoria(int)
+comment8.params=
+comment8.target=double\ getPeso()
+comment9.params=
+comment9.target=int\ getTipo()
+numComments=12
