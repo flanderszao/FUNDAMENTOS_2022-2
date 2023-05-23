@@ -1,0 +1,36 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+11
+-classpath
+C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\bluej\lib\bluejcore.jar;C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\bluej\lib\junit-jupiter-5.5.2.jar;C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\bluej\lib\junit-jupiter-api-5.5.2.jar;C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\bluej\lib\junit-jupiter-engine-5.5.2.jar;C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\bluej\lib\junit-jupiter-migrationsupport-5.5.2.jar;C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\bluej\lib\junit-jupiter-params-5.5.2.jar;C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\bluej\lib\junit-platform-commons-1.5.2.jar;C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\bluej\lib\junit-platform-console-1.5.2.jar;C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\bluej\lib\junit-platform-console-standalone-1.5.2.jar;C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\bluej\lib\junit-platform-engine-1.5.2.jar;C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\bluej\lib\junit-platform-launcher-1.5.2.jar;C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\bluej\lib\junit-platform-reporting-1.5.2.jar;C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\bluej\lib\junit-platform-runner-1.5.2.jar;C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\bluej\lib\junit-platform-suite-api-1.5.2.jar;C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\bluej\lib\junit-platform-testkit-1.5.2.jar;C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\bluej\lib\junit-quickcheck-core-0.9.jar;C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\bluej\lib\junit-vintage-engine-5.5.2.jar;C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\bluej\lib\hamcrest-core-1.3.jar;C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\bluej\lib\hamcrest-library-1.3.jar;C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\bluej\lib\lang-stride.jar;C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\bluej\lib\javafx\lib\javafx.base.jar;C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\bluej\lib\javafx\lib\javafx.controls.jar;C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\bluej\lib\javafx\lib\javafx.fxml.jar;C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\bluej\lib\javafx\lib\javafx.graphics.jar;C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\bluej\lib\javafx\lib\javafx.media.jar;C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\bluej\lib\javafx\lib\javafx.properties.jar;C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\bluej\lib\javafx\lib\javafx.swing.jar;C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\bluej\lib\javafx\lib\javafx.web.jar;C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\TrabalhoNotaE
+-d
+C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\TrabalhoNotaE\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\TrabalhoNotaE\maior3números.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\TrabalhoNotaE\maior3números.java...
+Constructing Javadoc information...
+Standard Doclet version 11.0.14.1
+Building tree for all the packages and classes...
+Generating C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\TrabalhoNotaE\doc\maior3números.html...
+Generating C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\TrabalhoNotaE\doc\package-summary.html...
+Generating C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\TrabalhoNotaE\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\TrabalhoNotaE\doc\allclasses.html...
+Generating C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\TrabalhoNotaE\doc\allclasses.html...
+Generating C:\Users\Vitor Rafael\Desktop\Rafael\~MOODLE PUCRS\Fundamentos de Programação\BlueJ-windows-503\TrabalhoNotaE\doc\index.html...
